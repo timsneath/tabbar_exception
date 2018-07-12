@@ -1,0 +1,11 @@
+name: tabbar_exception
+description: A new Flutter project.
+version: 1.0.0+1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cloud_firestore: "^0.7.3"
+
+flutter:
+  uses-material-design: true
